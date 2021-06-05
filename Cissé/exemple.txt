@@ -1,0 +1,3 @@
+var vart = <?php echo json_encode($vat);?>;
+ <script src="../js/Chart.bundle.js"></script>
+    <script src="../js/codecra.js"></script>
